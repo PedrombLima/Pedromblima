@@ -10,7 +10,7 @@ Sou estudante do ensino médio e no momento estou expandindo meus conhecimentos 
 
 👻Quiser bater um papo ou fazer projetos, envie mensagem ou chama discord.
 
-[![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pihedoo/)
+[![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marques_pbl/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F6SmKRYYS3)
 
 <!--
