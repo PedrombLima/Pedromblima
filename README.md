@@ -4,8 +4,6 @@
 
 🔮Sejam bem-vindos ao meu perfil
 
-Estudante de Ciência da Computação buscando evoluir.
-
 👨🏽‍💻My Skills: <b>HTML, CSS, JavaScript, Python</b>.
 
 👻Quiser bater um papo ou fazer projetos, me envie uma mensagem,
