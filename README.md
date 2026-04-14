@@ -4,11 +4,11 @@
 
 🔮Sejam bem-vindos ao meu perfil
 
-Sou estudante do ensino médio e no momento estou expandindo meus conhecimentos sobre programação visando um futuro trabalhando na área
+Estudante de Ciência da Computação | HTML | CSS | JavaScript | Python
 
-👨🏽‍💻My Skills: <b>Godot</b>(GameDeveloped), <b>Python, HTML, CSS</b>.
+👨🏽‍💻My Skills: <b>HTML, CSS, JavaScript, Python</b>.
 
-👻Quiser bater um papo ou fazer projetos, envie mensagem ou chama discord.
+👻Quiser bater um papo ou fazer projetos, me envie uma mensagem,
 
 [![Instagram](https://img.shields.io/badge/Instagram-DF0174.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/marques_pbl/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F6SmKRYYS3)
